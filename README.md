@@ -12,8 +12,7 @@ In this work, we analyzed the case of a social network; this network is the netw
 students when they eat out (each student chose two of these friends with whom they prefer to eat at
 the table). We analyzed the topology and also analyzed Degree Distribution , Density, Eccentricity ,
 Wiener index , Clustering Coefficient and Community Detection by using the python library networkx.
-We’ve put the data and codes in this remote github repository : https://github.com/osiastossou/
-SocialNetworkRestaurantAIMSstudents2020.git
+We’ve put the data and codes in this remote github repository : https://github.com/osiastossou/SocialNetworkRestaurantAIMSstudents2020.git
 
 
 ## Topology of network
